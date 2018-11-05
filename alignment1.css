@@ -1,0 +1,24 @@
+body{
+	background-color: #DEFFE1;
+}
+.frost{
+	font-size: 20px;
+	text-align: center;
+}
+
+.traveled{
+	position: absolute;
+	left: 600px;
+	height: 100px;
+	width: 200px;
+	font-size: 20px;
+	text-align: right;
+}
+
+.road{
+	text-align: left;
+	position: absolute;
+	font-size: 20px;
+	height: 100px;
+	width: 200px;
+}
