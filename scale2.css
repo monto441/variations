@@ -1,0 +1,16 @@
+body{
+	background-color: #2AEDFF;
+}
+.yours{
+	position: absolute;
+	font-size: 500px;
+	top: -500px;
+}
+.is{
+	position: absolute;
+	font-size:50px;
+	top: 200px;
+	left: 1000px;
+	height: 100px;
+	width: 50px;
+}
