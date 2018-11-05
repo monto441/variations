@@ -1,0 +1,23 @@
+body{
+	background-color: #2AEDFF;
+}
+.the{
+	position: absolute;
+	font-size: 800px;
+	top: -700px;
+	left: 200px;
+}
+
+.world{
+	position: absolute;
+	font-size: 200px;
+	top: 400px;
+	left: 450px;
+}
+
+.your{
+	position: absolute;
+	font-size: 50px;
+	top: 750px;
+	left: 600px;
+}
