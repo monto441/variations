@@ -1,0 +1,29 @@
+body{
+	background-color: #FF8450;
+}
+.text{
+	position: absolute;
+	left: 400px;
+	top: 200px;
+	height: 200px;
+	width: 800px;
+	color: #ED50FF;
+}
+
+.Lord{
+	position: absolute;
+	left: 400px;
+	top: 200px;
+	height: 200px;
+	width: 800px;
+	color: #5FC1FF;
+}
+
+.light{
+	position: absolute;
+	height: 200px;
+	width: 800px;
+	left: 400px;
+	top: 200px;
+	color: #7AFF57;
+}
